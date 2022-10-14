@@ -1,5 +1,7 @@
 # EBAY-SDK-PHP
 
+**This is a fork of david t sadler's excellent but archived project to introduce fixes and adjustments - https://github.com/davidtsadler/ebay-sdk-php**
+
 **This repository is no longer actively maintained and has been archived.**
 
 This project enables PHP developers to use the [eBay API](https://go.developer.ebay.com/api-documentation) in their PHP code, and build software using services such as [Finding](http://developer.ebay.com/Devzone/finding/Concepts/FindingAPIGuide.html), [Trading](http://developer.ebay.com/DevZone/guides/ebayfeatures/index.html), [Shopping](http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html), etc. You can get started by [installing the SDK via Composer](https://github.com/davidtsadler/ebay-sdk-php/wiki/Installation) and by following the [Basic Usage Guide](http://devbay.net/sdk/guides/getting-started/basic-usage.html).
